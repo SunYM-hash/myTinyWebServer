@@ -1,0 +1,29 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "/usr/bin/gcc",
+  "C_Cpp_Runner.cppCompilerPath": "/usr/bin/g++",
+  "C_Cpp_Runner.debuggerPath": "/usr/bin/gdb",
+  "C_Cpp_Runner.makePath": "/usr/bin/make",
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "/usr/include",
+    "/usr/include/c++/9",
+    "/usr/include/x86_64-linux-gnu/c++/9",
+    "/usr/include/c++/9/backward",
+    "/usr/lib/gcc/x86_64-linux-gnu/9/include",
+    "/usr/local/include",
+    "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed",
+    "/usr/include/x86_64-linux-gnu"
+  ],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.excludeSearch": [],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp.errorSquiggles": "Disabled"
+}
